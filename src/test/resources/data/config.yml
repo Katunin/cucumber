@@ -1,5 +1,5 @@
 infrastructure: selenoid
-hubUrl: 192.168.2.180
+hubUrl: 3.231.57.110
 env: qa
 browser: chrome
 browserVersion: 108.0
